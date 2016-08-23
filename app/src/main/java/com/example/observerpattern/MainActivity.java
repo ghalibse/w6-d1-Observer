@@ -22,8 +22,6 @@ public class MainActivity extends AppCompatActivity {
         mEditText = (EditText) findViewById(R.id.main_Edttxt);
         mTextView = (TextView) findViewById(R.id.main_TxtView);
         mTextView.setText("");
-
-
     }
 
     public void doMagic(View view) {
